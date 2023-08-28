@@ -152,11 +152,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
 OFF
+![263473572-25c9b1b3-931b-447b-b1c9-5945d9566b88](https://github.com/Sudharsanram/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119393980/f06a501a-cb6c-44ba-a451-869a70b8b92e)
 
-![Uploading 263473572-25c9b1b3-931b-447b-b1c9-5945d9566b88.jpg…]()
+
 
 ON
-![Uploading 263473575-f7b51ed4-a5e1-4ca2-a46f-73d8312bc807.jpg…]()
+![263473575-f7b51ed4-a5e1-4ca2-a46f-73d8312bc807](https://github.com/Sudharsanram/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119393980/474301b8-3b88-4257-ae9f-0f6d1b166920)
+
 
  
  
